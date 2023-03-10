@@ -9,4 +9,9 @@
 
 # Clase 3 - Miercoles
    ## Funciones:
-      ## lambda, map, filter y reduce
+   ## lambda, map, filter y reduce
+   
+# Clase 4 - Jueves
+   ## lambda
+   ## RDDs: Transformaciones y Acciones
+   ## Filter
